@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sonal Sharma</h1>
 <h3 align="center">A passionate Automation Test Engineer from India</h3>
 
-<img align="right" alt="testing" width="370" height="250" src="https://uploads.toptal.io/blog/image/91302/toptal-blog-image-1434578005589-4e6897ec04cc0b3c7075b9b011ee915c.gif">
+<img align="right" alt="testing" width="350" height="240" src="https://uploads.toptal.io/blog/image/91302/toptal-blog-image-1434578005589-4e6897ec04cc0b3c7075b9b011ee915c.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonalsharmagit1&label=Profile%20views&color=0e75b6&style=flat" alt="sonalsharmagit1" /> </p>
 
