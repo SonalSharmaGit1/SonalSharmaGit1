@@ -8,8 +8,7 @@
 
 - 🔭 I’m currently working on automating [AutomationExercise](https://automationexercise.com/)
 
-- 🌱 I’m currently learning **🍕 Perfecting my pizza-ordering automation script                                                                                                          
-     (priorities, right?)**
+- 🌱 I’m currently learning **🍕 Perfecting my pizza-ordering automation script                                                                         (priorities, right?)**
 
 - 💬 Ask me about **My favorite bug-hunting story (there are some good ones!)**
 
