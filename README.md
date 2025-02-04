@@ -13,7 +13,7 @@
 - 💬 Ask me about **My favorite bug-hunting story (there are some good ones!)**
 
 - 📄 Know about my experiences [https://github.com/SonalSharmaGit1/SonalSharmaGit1/blob/main/                                                                         
-                     SonalSharma%20QA%20Engineer.pdf](https://github.com/SonalSharmaGit1/SonalSharmaGit1/blob/main/SonalSharma%20QA%20Engineer.pdf)
+                     SonalSharma%20QA%20Engineer.pdf](https://github.com/SonalSharmaGit1/SonalSharmaGit1/blob/main/SonalSharmaResume_TestEngineer.pdf)
 
 - ⚡ Fun fact **I’ve seen it all—except for a bug-free deployment!**
 
